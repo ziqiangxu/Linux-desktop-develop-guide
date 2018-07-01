@@ -16,7 +16,7 @@
 [https://github.com/linuxdeepin/qcef/tree/master/browser_demo](https://github.com/linuxdeepin/qcef/tree/master/browser_demo)
 
 ### dde-dock插件开发指南
-[https://github.com/linuxdeepin/dde-dock/blob/master/plugins/plugin-guide/plugins-developer-guide.md](https://github.com/linuxdeepin/dde-dock/blob/master/plugins/plugin-guide/plugins-developer-guide.md)
+[https://github.com/linuxdeepin/dde-dock/blob/master/plugins/plugin-guide/plugins-developer-guide.md](https://github.com/linuxdeepin/dde-dock/blob/master/plugins/plugin-guide/plugins-developer-guide.md)    
 这位老哥的插件可以参考学习一下 ：    
 1. [https://github.com/sonichy/WEATHER_DDE_DOCK](https://github.com/sonichy/WEATHER_DDE_DOCK)
 2. [https://github.com/sonichy/CMDU_DDE_DOCK](https://github.com/sonichy/CMDU_DDE_DOCK)
