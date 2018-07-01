@@ -1,9 +1,12 @@
+## deepin应用开发指南
+### 零基础
 如果你是零基础的同学，可以先试着学一门编程语言。这里推荐两个学习网站:
 - [http://www.runoob.com](http://www.runoob.com)
 - [https://www.w3cschool.cn](https://www.w3cschool.cn)
 
+### Qt的学习
 开发deepin平台的应用程序，最常用的技术是Qt/C++
-了解入门Qt，可以前往这个网站学习:
+了解入门Qt，可以前往qt开源社区进行学习:    
 [http://www.qter.org](http://www.qter.org)
 
 ### Qt开发环境搭建
@@ -29,4 +32,4 @@
 [社区开发精品帖](https://bbs.deepin.org/forum.php?mod=forumdisplay&fid=49&filter=digest&digest=1)
 
 
-大家有建议，欢迎积极跟帖
+大家有建议，欢迎积极跟帖，如有错误，恳请指正
