@@ -23,12 +23,12 @@
 2. [https://github.com/sonichy/CMDU_DDE_DOCK](https://github.com/sonichy/CMDU_DDE_DOCK)
 
 ### 应用打包
-[flatpak格式]
+- flatpak格式
 [官方文档](http://docs.flatpak.org/en/latest/introduction.html)    
 [CSDN的文章](https://blog.csdn.net/beyond_zhangna/article/details/78335747)
 [社区的GUI工具](https://bbs.deepin.org/forum.php?mod=viewthread&tid=152879)    
 
-deb格式    
+- deb格式    
 [一篇介绍得比较详细的文章](https://www.cnblogs.com/Genesis-007/p/5219960.html)    
 您也可以在应用商店搜索Debreate这个GUI工具
 
