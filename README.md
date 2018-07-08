@@ -23,7 +23,7 @@
 2. [https://github.com/sonichy/CMDU_DDE_DOCK](https://github.com/sonichy/CMDU_DDE_DOCK)
 
 ### 应用打包
-- flatpak格式
+- flatpak格式    
 [官方文档](http://docs.flatpak.org/en/latest/introduction.html)    
 [CSDN的文章](https://blog.csdn.net/beyond_zhangna/article/details/78335747)
 [社区的GUI工具](https://bbs.deepin.org/forum.php?mod=viewthread&tid=152879)    
