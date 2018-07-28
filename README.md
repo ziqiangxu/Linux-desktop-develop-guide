@@ -15,7 +15,8 @@
 #### PyQt
 Qt的Python绑定，听说明年——2019Qt官方会支持Python。
 - 随便找的一个PyQt中文教程[http://code.py40.com/pyqt5/](http://code.py40.com/pyqt5/)
-- PyQt电子书：https://github.com/ziqiangxu/sources1/blob/master/deepin/pyqt_tutorial.pdf
+- PyQt电子书：[https://github.com/ziqiangxu/sources1/blob/master/deepin/pyqt_tutorial.pdf](https://github.com/ziqiangxu/sources1/blob/master/deepin/pyqt_tutorial.pdf)
+- PyQt5 tutorial [http://zetcode.com/gui/pyqt5/](http://zetcode.com/gui/pyqt5/)
 > 虽然是英文版，但是真的想学习的话我相信你会克服这些困难的
 
 #### qcef应用
