@@ -11,6 +11,9 @@ Qt的中文社区 [http://www.qter.org/](http://www.qter.org/) 我的第一个Qt
 > 3. 可以了解一下QML，我觉得这是一种更加先进的GUI开发方式
 > 4. 在会Qt/C++之后，用PyQt或者PySide2开发的时候会很快的
 
+### 1.1 Qt/C++开发环境搭建
+[https://bbs.deepin.org/forum.php?mod=viewthread&tid=157889&extra=page%3D1](https://bbs.deepin.org/forum.php?mod=viewthread&tid=157889&extra=page%3D1)
+
 ## 2. Python和Qt
 > 在我使用C++和Python开发Qt应用程序的时候，用Python显然是要迅速一些。但是Qt类的某些功能在Python是不支持的，而且官方对C++的支持也更加完善。使用
 Python开发Qt程序的时候也是可以和QML结合的。
@@ -34,5 +37,10 @@ PyQt5 tutorial [http://zetcode.com/gui/pyqt5/](http://zetcode.com/gui/pyqt5/) �
 > 有PySide和PySide2，[PySide2](https://www.qt.io/qt-for-python)是Qt官方推出的```Qt for Python```
 我简单地使用了一下PySide2，PySide2和PyQt5在使用上是差不多。在开发私有软件的时候,需要注意了，PySide2和PyQt5在开源协议上是有差别的
 
-#### Qt开发环境搭建
-[https://bbs.deepin.org/forum.php?mod=viewthread&tid=157889&extra=page%3D1](https://bbs.deepin.org/forum.php?mod=viewthread&tid=157889&extra=page%3D1)
+### 2.3 Qt/Python开发环境的搭建
+1. 推荐使用PyCharm这个IDE工具
+2. 推荐在Python的虚拟环境中安装PySide和PyQt
+```
+pip install PySide2    # 安装PySide2
+pip install PyQt5    # 安装PyQt5
+```
