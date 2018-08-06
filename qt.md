@@ -18,7 +18,8 @@ Qt的中文社区 [http://www.qter.org/](http://www.qter.org/) 我的第一个Qt
 > 4. 在会Qt/C++之后，用PyQt或者PySide2开发的时候会很快的
 
 ## Python和Qt
-> 在我使用C++和Python开发Qt应用程序的时候，用Python显然是要迅速一些。但是Qt类的某些功能在Python是不支持的，而且官方对C++的支持也更加完善。
+> 在我使用C++和Python开发Qt应用程序的时候，用Python显然是要迅速一些。但是Qt类的某些功能在Python是不支持的，而且官方对C++的支持也更加完善。使用
+Python开发Qt程序的时候也是可以和QML结合的。
 
 ### PyQt
 > PyQt不是Qt的官方出品，但是我觉得足够好用。有PyQt4和PyQt5，PyQt5新一些
