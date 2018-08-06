@@ -1,25 +1,19 @@
-## deepin应用开发指南
-### 零基础
-如果你是零基础的同学，可以先试着学一门编程语言。这里推荐两个学习网站:    
-- [http://www.runoob.com](http://www.runoob.com)
-- [https://www.w3cschool.cn](https://www.w3cschool.cn)
+# deepin应用开发指南 
+我从2015年断断续续学习编程，得益于开源运动、便捷的互联网和那些热衷于在互联网分享的技术人，我的技术慢慢地积累起来。如今，我效仿前辈们，为这个世界贡献我的力量，致力于帮助后来者们能够更加容易地踏入编程世界。但由于个人精力有限，而且网络上的资源比较丰富，我仅仅分享一些我入门GUI程序开发的一些经验，希望在我笼统的介绍和梳理下能对大家有一些启发。
 
-### Qt的学习
-开发deepin平台的应用程序，最常用的技术是Qt/C++    
-了解入门Qt，可以前往qt开源社区进行学习:    
-[http://www.qter.org](http://www.qter.org)
+[deepin](https://www.deepin.com)是一个Linux发行版，所以Linux平台的开发技术都可以被用来开发deepin，这里我们主要讨论GUI编程技术。
 
-#### Qt开发环境搭建
-[https://bbs.deepin.org/forum.php?mod=viewthread&tid=157889&extra=page%3D1](https://bbs.deepin.org/forum.php?mod=viewthread&tid=157889&extra=page%3D1)
+## 从哪里开始?
+你如果没有掌握一门编程语言的话，可以先试着学一门编程语言。这里推荐两个学习网站:    
+- [菜鸟教程](http://www.runoob.com)
+- [w3cschool](https://www.w3cschool.cn)
+> 不要怂，搞一下就知道这个东西有没有意思了。反正我觉得很有意思，学了编程，似乎就不会有无聊的时间了。因为根本学不完，哈哈哈哈
 
-#### PyQt
-Qt的Python绑定，听说明年——2019Qt官方会支持Python。
-- 随便找的一个PyQt中文教程[http://code.py40.com/pyqt5/](http://code.py40.com/pyqt5/)
-- PyQt电子书：[https://github.com/ziqiangxu/sources1/blob/master/deepin/pyqt_tutorial.pdf](https://github.com/ziqiangxu/sources1/blob/master/deepin/pyqt_tutorial.pdf)
-- PyQt5 tutorial [http://zetcode.com/gui/pyqt5/](http://zetcode.com/gui/pyqt5/)
-> 虽然是英文版，但是真的想学习的话我相信你会克服这些困难的
+## 开发技术
+[Qt系列：Qt/C++，PyQt，PySide](https://github.com/ziqiangxu/deepin-develop-guide/blob/master/qt.md)
 
 #### qcef应用
+我fork了一个简单的demo，没有深入研究，大家可以了解一下，熟悉web前端的话，开发起来应该很快。
 [https://github.com/linuxdeepin/qcef/tree/master/browser_demo](https://github.com/linuxdeepin/qcef/tree/master/browser_demo)
 
 #### dde-dock插件开发指南
