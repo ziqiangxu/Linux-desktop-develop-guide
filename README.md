@@ -40,7 +40,7 @@
 
 ### 3.2 词典
 - [redict](https://github.com/rekols/redict)此人水平较高，可能他的代码不适合用来学习
-- [freedict]https://github.com/ziqiangxu/freedict
+- [freedict](https://github.com/ziqiangxu/freedict)
 
 ## 4 应用打包
 > 好不容易搞出来一个程序，快点分享给大家用吧。扔个源代码可不行，好多普通用户是不会编译的呀。所以我们开发者要将开发好的应用程序进行打包，便于普通用户安装使用。
