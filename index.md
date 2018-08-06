@@ -1,3 +1,4 @@
+# deepin应用开发指南目录
 ## 1. 从哪里开始?
 你如果还没有掌握一门编程语言的话，可以先试着学一门编程语言。这里推荐两个学习网站:    
 - [菜鸟教程](http://www.runoob.com)
@@ -63,7 +64,7 @@
 - [社区开发精品帖](https://bbs.deepin.org/forum.php?mod=forumdisplay&fid=49&filter=digest&digest=1)
 - [老王的计算机书籍推荐清单](https://www.jianshu.com/p/9d7bc8e84087)
 
-### 更多技能
+### 5.3 更多技能
 - git 代码版本管理工具
 
 大家有建议，欢迎积极[跟帖](https://github.com/ziqiangxu/deepin-develop-guide/issues/new)，如有错误，恳请[指正
