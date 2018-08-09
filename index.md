@@ -28,7 +28,7 @@
 ### 3.1 dde-dock插件开发指南
 官方的说明    
 [https://github.com/linuxdeepin/dde-dock/blob/master/plugins/plugin-guide/plugins-developer-guide.md](https://github.com/linuxdeepin/dde-dock/blob/master/plugins/plugin-guide/plugins-developer-guide.md) 
-- 我根据官方文档的指引写的[demo]()
+- 我根据官方文档的指引写的[demo](https://github.com/ziqiangxu/deepin-develop-guide/tree/master/example/home_monitor)
 
 这位老哥的插件可以参考学习一下 ：    
 - [https://github.com/sonichy/WEATHER_DDE_DOCK](https://github.com/sonichy/WEATHER_DDE_DOCK)
