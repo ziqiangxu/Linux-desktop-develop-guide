@@ -35,20 +35,19 @@
 - [https://github.com/sonichy/CMDU_DDE_DOCK](https://github.com/sonichy/CMDU_DDE_DOCK)
 
 ### 3.2 词典
-- [redict](https://github.com/rekols/redict)此人水平较高，可能他的代码不适合用来学习
-- [freedict](https://github.com/ziqiangxu/freedict)
+- [redict](https://github.com/rekols/redict)
+- [words-picker](https://github.com/ziqiangxu/words-picker)
 
 ## 4 应用打包
 > 好不容易搞出来一个程序，快点分享给大家用吧。扔个源代码可不行，好多普通用户是不会编译的呀。所以我们开发者要将开发好的应用程序进行打包，便于普通用户安装使用。
 
-### 4.1 flatpak格式    
+### 4.1 `flatpak` 格式    
 - [官方文档](http://docs.flatpak.org/en/latest/introduction.html)    
 - [CSDN的文章](https://blog.csdn.net/beyond_zhangna/article/details/78335747)
-- [社区的GUI工具](https://bbs.deepin.org/forum.php?mod=viewthread&tid=152879)    
 
 ### 4.2 deb格式    
 - [一篇介绍得比较详细的文章](https://www.cnblogs.com/Genesis-007/p/5219960.html)
-- 您也可以在应用商店搜索Debreate这个GUI工具
+- 您也可以试试 `Debreate` 这个 `GUI` 工具
 
 ### 4.3 应用投递
 > 各位优秀的同学可以试着投递一下自己的应用，打包别人开发的应用也可以哦，不过需要遵守相关的规则。
@@ -65,7 +64,7 @@
 - [老王的计算机书籍推荐清单](https://www.jianshu.com/p/9d7bc8e84087)
 
 ### 5.3 更多技能
-- git 代码版本管理工具
+- `git` 代码版本管理工具
 
 大家有建议，欢迎积极[跟帖](https://github.com/ziqiangxu/deepin-develop-guide/issues/new)，如有错误，恳请[指正
 ](https://github.com/ziqiangxu/deepin-develop-guide/issues/new)，求助当然也欢迎[ziqiang_xu@yeah.net](mailto:ziqiang_xu@yeah.net)
